@@ -6,4 +6,4 @@ b3 = KeyboardButton('/Меню')
 
 kb_client = ReplyKeyboardMarkup()
 
-kb_client.add(b1).add(b2).add(b2)
+kb_client.add(b1).add(b2).add(b3)
